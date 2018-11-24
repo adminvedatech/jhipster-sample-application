@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "NTcxZDQ5NGM3NGY1OTFiMzZiZDc2Mjg4MGY0ZjczNDUyMWIwY2ZkNDkyZjhmYTBjYjM0NjFjY2IwYjUxM2I2Y2IyM2Q1ODRjYjljNGMzZGI3ZGY1ODQxMzAzOTc1ZDg0ODE0MzY5ZDQ4NGVjNWZhY2Q3Mjc5ZWNjYjYyMTA0Njk=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "adminvedatech",
+  "repository-name": "jhipster-sample-application"
+}
